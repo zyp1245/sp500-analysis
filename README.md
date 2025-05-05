@@ -6,7 +6,6 @@
 
 Professional portfolio analysis tool for quantitative researchers and portfolio managers, featuring real-time risk metrics and factor exposure analysis.
 
-![image-20250501194845003](D:\dashboard\dashboard.png)
 
 
 
@@ -66,7 +65,6 @@ streamlit run app.py
 
 ### 1. Portfolio Construction
 
-![image-20250501194440591](D:\dashboard\sidebar.png)
 
 - **Stock Selection**: Multi-search supported
 - Weight Modes:
